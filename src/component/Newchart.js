@@ -98,7 +98,7 @@ class Newchart extends React.Component {
             },
           },
         },
-        colors: ["grey", "lightgreen", "pink"],
+        colors: ["lightgreen", "lightgreen", "pink"],
       },
     };
   }
