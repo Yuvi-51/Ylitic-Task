@@ -88,9 +88,7 @@ class Newchart extends React.Component {
         plotOptions: {
           bar: {
             columnWidth: "25%",
-            // stacked:true,
             colors: {
-              barColors: ["grey"],
 
               backgroundBarColors: [],
               backgroundBarOpacity: 1,
@@ -106,7 +104,8 @@ class Newchart extends React.Component {
   render() {
     return (
       <>
-        <div id="chart">
+      <div className="chart-container">
+        <div id="chart" >
         <h1>Weekly Subscriber Gain and Loss</h1>
           <h2 className="chart-subheading">
             Takeway: Majority of Subscribers are gained in spike (viral) events
@@ -118,6 +117,7 @@ class Newchart extends React.Component {
             type="line"
             height={350}
           />
+        </div>
         </div>
       </>
     );
