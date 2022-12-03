@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ylytic-task/static/css/main.80a1c14f.css",
+    "main.js": "/Ylytic-task/static/js/main.f6157709.js",
+    "static/js/787.63f366af.chunk.js": "/Ylytic-task/static/js/787.63f366af.chunk.js",
+    "index.html": "/Ylytic-task/index.html",
+    "main.80a1c14f.css.map": "/Ylytic-task/static/css/main.80a1c14f.css.map",
+    "main.f6157709.js.map": "/Ylytic-task/static/js/main.f6157709.js.map",
+    "787.63f366af.chunk.js.map": "/Ylytic-task/static/js/787.63f366af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80a1c14f.css",
+    "static/js/main.f6157709.js"
+  ]
+}
