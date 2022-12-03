@@ -1,7 +1,7 @@
 {
-  "homepage": "http://Yuvi-51.github.io/Ylytic-task",
   "name": "graph",
   "version": "0.1.0",
+  "homepage": "http://Yuvi-51.github.io/Ylitic-Task",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
